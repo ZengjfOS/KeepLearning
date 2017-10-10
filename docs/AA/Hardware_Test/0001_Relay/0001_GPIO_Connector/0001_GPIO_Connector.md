@@ -1,8 +1,5 @@
 # Relay GPIO Connector Test Analysis
 
-* [一、GPIO连接器](#一、GPIO连接器)
-* [二、报警器](#二、报警器)
-
 ## 一、GPIO连接器
 
 ![img/GPIO_Connector.png](img/GPIO_Connector.png)

@@ -172,3 +172,15 @@ DIS_IN1是CPU输入引脚。
 * `STOPM+`接24V；
 * `STOPM-`接`TY_IN+`；
 * `SW6`拨到左侧（靠近`SW6`字样）
+
+### 默认状态：
+
+```
+./gpio 0 1
+./gpio 1 1
+./gpio 2 1
+./gpio 3 1
+./gpio 4 1
+./gpio 5 1
+./gpio 6 1
+```
